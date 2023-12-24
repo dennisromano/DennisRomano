@@ -1,38 +1,16 @@
-<style>
-    body {text-align: center;}
-    .jobtitle{
-        font-weight: normal;
-        font-size:0.6em;
-        text-align: center;
-    }
-    .regular{
-        font-weight: normal;
-        text-align: center;
-    }
-    .regularItalic{
-        font-style: italic;
-        font-weight: normal;
-        text-align: center;
-    }
-    h1, h2, h3 {
-        padding: 0;
-        margin: 0;
-    }
-</style>
+<div style="text-align: center;">
 
-<div>
-
-<h1><span class="regular">"It's not over until I win!"</span><br>Les Brown</h1>
+<h1 style="padding: 0;margin: 0;"><span style="font-weight: normal;text-align: center;">"It's not over until I win!"</span><br>Les Brown</h1>
 <br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">🎬 Watch the video</a>
 
-<h1>
-    <span class="jobtitle">Welcome into Github Profile</span>
+<h1 style="padding: 0;margin: 0;">
+    <span style="font-weight: normal;font-size:0.6em;text-align: center;">Welcome into Github Profile</span>
     <br>I'm Dennis Romano
-    <br><span class="jobtitle">🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev</span>
+    <br><span style="font-weight: normal;font-size:0.6em;text-align: center;">🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev</span>
 </h1>
 
-<br><h2>Technologies</h2>
-<br><h3>❤️ <span class="regularItalic">Love for</span></h3>
+<br><h2 style="padding: 0;margin: 0;">Technologies</h2>
+<br><h3 style="padding: 0;margin: 0;">❤️ <span style="font-style: italic;font-weight: normal;text-align: center;">Love for</span></h3>
 <br>
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
 <a href="https://spring.io/projects/spring-boot/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringAndSpring Boot" width="60" height="60"/></a>
@@ -41,7 +19,7 @@
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Flutter" width="60" height="60"/></a>
 
 
-<br><h3>🛠️ <span class="regularItalic">Now work with</span></h3>
+<br><h3 style="padding: 0;margin: 0;">🛠️ <span style="font-style: italic;font-weight: normal;text-align: center;">Now work with</span></h3>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://angular.dev/assets/icons/android-chrome-192x192.png" alt="Angular" width="40" height="40"/>
@@ -51,7 +29,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="45" height="45"/>
 
-<br><h3>📚 <span class="regularItalic">Knowed</span></h3>
+<br><h3 style="padding: 0;margin: 0;">📚 <span style="font-style: italic;font-weight: normal;text-align: center;">Knowed</span></h3>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
