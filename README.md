@@ -4,7 +4,7 @@
 > <br>Les Brown
 > <br><br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">```🎬 Watch the video```</a>
 
-<br><br>
+<br>
 
 # Welcome into Github Profile <br> I'm ```Dennis Romano``` <br><br>🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev
 
@@ -21,7 +21,6 @@
 <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Flutter" width="60" height="60"/></a>
 
-<br>
 
  _🛠️ Now work with_
 
@@ -33,7 +32,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="45" height="45"/>
 
- <br><br>
+ <br>
 
  _📚 Knowed_
 
