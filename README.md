@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 <h1 style="padding: 0;margin: 0;"><span style="font-weight: normal;text-align: center;">"It's not over until I win!"</span><br>Les Brown</h1>
 <br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">🎬 Watch the video</a>
