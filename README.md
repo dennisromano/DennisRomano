@@ -21,16 +21,16 @@
 </style>
 
 <div>
-<br><br>
+
 <h1><span class="regular">"It's not over until I win!"</span><br>Les Brown</h1>
 <br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">🎬 Watch the video</a>
-<br><hr>
+
 <h1>
     <span class="jobtitle">Welcome into Github Profile</span>
     <br>I'm Dennis Romano
     <br><span class="jobtitle">🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev</span>
 </h1>
-<hr>
+
 <br><h2>Technologies</h2>
 <br><h3>❤️ <span class="regularItalic">Love for</span></h3>
 <br>
