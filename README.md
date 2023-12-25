@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 > "It's not over until I win!"
 > <br> -cit. **Les Brown**
