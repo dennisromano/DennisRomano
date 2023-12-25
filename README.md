@@ -1,11 +1,5 @@
 <div align="center">
-
-> "It's not over until I win!"
-> <br> -cit. **Les Brown**
-> <br><br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">```🎬 Watch the video```</a>
-
-<br>
-
+  
 # Welcome into my Github Profile <br> I'm ```Dennis Romano``` <br><br>🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev
 
 <table>
@@ -56,4 +50,10 @@
    </td>
   </tr>
 </table>
+
+<br><br><br>
+
+> "It's not over until I win!"
+> <br> -cit. **Les Brown**
+> <br><br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">```🎬 Watch the video```</a>
 </div>
