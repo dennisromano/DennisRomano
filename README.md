@@ -55,5 +55,5 @@
 
 > "It's not over until I win!"
 > <br> -cit. **Les Brown**
-> <br><br><a href="https://www.youtube.com/watch?v=1_5kYxYuRy8">```🎬 Watch the video```</a>
+> <br><a href="https://www.youtube.com/watch?v=8Fd06U-3TAY">```🎬 Watch the video 10:41```</a>
 </div>
