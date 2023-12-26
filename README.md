@@ -2,13 +2,13 @@
   
 # Welcome into my Github Profile <br> I'm ```Dennis Romano``` <br><br>🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev
 
-**Certification**
+**Certifications**
 
 <a href="https://www.credly.com/badges/7095d053-f7b2-407c-9113-139d34307c74/public_url">
   <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="80" height="80"/>
 </a>
 
-<br><br>
+<br>
 
 **Technologies**
 
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
 > "It's not over until I win!"
 > <br> -cit. **Les Brown**
