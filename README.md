@@ -1,14 +1,12 @@
 <div align="center">
   
 # Welcome into my Github Profile <br> I'm ```Dennis Romano``` <br><br>🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev
-
+  
 ### Certifications
 
 <a href="https://www.credly.com/badges/7095d053-f7b2-407c-9113-139d34307c74/public_url">
   <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="80" height="80"/>
 </a>
-
-<br>
 
 ### Technologies
 
@@ -22,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Typescript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" width="30" height="30"/>
-<br><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="30" height="30"/>
@@ -32,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
-<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="CandCPlusPlus" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="CandCPlusPlus" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="CandCPlusPlus" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="CandCPlusPlus" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
@@ -48,4 +46,3 @@
 > "It's not over until I win!"
 > <br> -cit. **Les Brown**
 > <br><a href="https://www.youtube.com/watch?v=8Fd06U-3TAY">```🎬 Watch the video 10:41```</a>
-</div>
