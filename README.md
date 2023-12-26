@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome into my Github Profile <br> I'm ```Dennis Romano``` <br><br>🤝🏻 Team Leader & 🧑🏽‍💻 Sr. Fullstack Dev
+# Welcome, <br> I'm ```Dennis Romano```
   
 ### 1 · Certification
 
