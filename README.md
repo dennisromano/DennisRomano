@@ -40,10 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_168143.png" alt="Typescript" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" alt="UML" with="30" height="30"/>
-
 <h1></h1>
-
-<br>
 
 ### "It's not over until I win!" <br> -cit. **Les Brown**
 ### <a href="https://www.youtube.com/watch?v=8Fd06U-3TAY">```🎬 Watch the video 10:41```</a>
