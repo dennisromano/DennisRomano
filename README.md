@@ -1,9 +1,8 @@
 <div align="center">
   
-# Hi, <br> I am ```Dennis Romano```
+# Hey, I am<br>```Dennis Romano```
   
-### 3 · Certification
-
+### 3 · Certifications
 <a href="https://www.credly.com/badges/afaf5743-b00c-4f76-8ad3-c4295e398749/public_url">
   <img src="https://images.credly.com/size/680x680/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="130" height="130"/>
 </a>
@@ -15,7 +14,6 @@
 </a>
 
 ### 30 · Technologies
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringAndSpring Boot" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/>
