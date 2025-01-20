@@ -5,7 +5,7 @@
 ### 3 · Certification
 
 <a href="https://www.credly.com/badges/afaf5743-b00c-4f76-8ad3-c4295e398749/public_url">
-  <img src="https://images.credly.com/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="130" height="130"/>
+  <img src="https://images.credly.com/size/340x340/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="130" height="130"/>
 </a>
 <a href="https://www.credly.com/badges/7095d053-f7b2-407c-9113-139d34307c74/public_url">
   <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="130" height="130"/>
