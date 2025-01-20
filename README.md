@@ -47,4 +47,4 @@
 <h1></h1>
 
 ### "It's not over until I win!" <br> -cit. **Les Brown**
-### <a href="https://www.youtube.com/watch?v=8Fd06U-3TAY">```🎬 Watch the video 10:41```</a>
+### <a href="https://youtu.be/8Fd06U-3TAY?feature=shared&t=641">```🎬 Watch the video```</a>
