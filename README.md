@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I am<br>```Dennis Romano```
+# Hey, I'm<br>```Dennis Romano```
   
 ### 3 · Certifications
 <a href="https://www.credly.com/badges/afaf5743-b00c-4f76-8ad3-c4295e398749/public_url">
