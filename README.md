@@ -6,8 +6,8 @@
 <a href="https://www.credly.com/badges/afaf5743-b00c-4f76-8ad3-c4295e398749/public_url">
   <img src="https://images.credly.com/size/680x680/images/80c95f74-dcf0-43fc-a437-053a598feb05/blob" width="130" height="130"/>
 </a>
-<a href="https://www.credly.com/badges/7095d053-f7b2-407c-9113-139d34307c74/public_url">
-  <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="130" height="130"/>
+<a href="https://www.credly.com/badges/e2cf9543-8e30-474e-8668-9e52111db3fa/public_url">
+  <img src="https://images.credly.com/size/220x220/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/image.png" width="130" height="130"/>
 </a>
 <a href="https://www.credly.com/badges/38755c47-8c2b-479d-8b32-e3d2fab8fac5/public_url">
   <img src="https://images.credly.com/size/680x680/images/ff52a038-c61e-4088-b434-2e98ef546896/image.png" width="150" height="150"/>
